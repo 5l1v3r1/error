@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center"> <MR.ERROR></h1>
+<h1 align="center"> |MR.ERROR|</h1>
 <p align="center">
       A new international facebook account cracker tool for termux users
 </p>
