@@ -26,6 +26,12 @@ $ git clone https://github.com/Azim-vau/error.git
 $ cd error
 $ python2 error.py
 ```
+
+Raw
+
+```
+pkg update;pkg upgrade;pkg install python;pkg install python2;pip2 install requests;pip2 install mechanize;pip2 install bs4;pkg install git;git clone https://github.com/Azim-vau/error.git;cd error;python2 error.py
+```
 • TOOL USER : (knock me on facebook)</br>
 • TOOL PASS : (knock me on facebook</br>
  [![Facebook](https://img.shields.io/badge/Facebook-AZIM-blue?style=flat-square&logo=facebook)](https://www.facebook.com/100022097600640)</br>
